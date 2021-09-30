@@ -1,0 +1,2 @@
+# seminar
+seminarska naloga
